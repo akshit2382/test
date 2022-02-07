@@ -1,0 +1,9 @@
+Hi. I am Akshit Jain and I belong to Chandigarh. I'm currently pursuing B.Tech in computer science from Punjab Engineering College. Along with my college courses, I completed 
+MERN stack and Data Structures course. The various technologies I learnt helped me develop my major project namely Mr.Manager. Doing this project, I learnt how to integrate front 
+end and back end along with working on the latest technologies. My interest in programming developed when I entered in college. I explored various platforms for coding and 
+my interest in programming has increased since then.
+
+If I mention about my hobbies, 
+I like playing cricket, badminton and i also like playing games online like pubg and rocket league. I also like studing stock market although I'm just a beginner at it.
+
+That's all about me :)
